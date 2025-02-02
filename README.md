@@ -103,3 +103,5 @@ git https://github.com/usmankhalid-95/A3-Seq2SeqTransformer.git
 ## Dataset Credits
 
 - **OPUS100 (en-ur)**: The dataset is available on Hugging Face, created by the Hugging Face team and contributors. [Link🔗](https://huggingface.co/datasets/opus100)
+
+- **Usage**: Only **500,000 samples** from the training split were used to train the model.

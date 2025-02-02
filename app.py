@@ -1,6 +1,6 @@
 import streamlit as st
 import torch
-from my_model import Seq2SeqTransformer, Encoder, Decoder, EncoderLayer, DecoderLayer, MultiHeadAttentionLayer, PositionwiseFeedforwardLayer
+from streamlit_model_methods import Seq2SeqTransformer, Encoder, Decoder, EncoderLayer, DecoderLayer, MultiHeadAttentionLayer, PositionwiseFeedforwardLayer
 import torch.nn.functional as F
 import numpy as np
 import torchtext
